@@ -22,5 +22,5 @@ You can see all the changes here: [0.9.0-beta.3...moodlemobile:v0.9.0-moodle.3](
 You can install this package using the [original installation instructions](https://github.com/katzer/cordova-plugin-local-notifications#installation), but installing this package instead:
 
 ```sh
-cordova plugin add @moodlehq/cordova-plugin-local-notification@0.9.0-moodle.3
+cordova plugin add cordova-plugin-local-notification@0.9.0-moodle.3
 ```
