@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moodlemobile/cordova-plugin-local-notification.git"
+    "url": "git+https://github.com/cyberquotesg/cordova-plugin-local-notification.git"
   },
   "keywords": [
     "appplant",
@@ -49,7 +49,7 @@
   "author": "Sebastián Katzer",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/moodlemobile/cordova-plugin-local-notification/issues"
+    "url": "https://github.com/cyberquotesg/cordova-plugin-local-notification/issues"
   },
-  "homepage": "https://github.com/moodlemobile/cordova-plugin-local-notification#readme"
+  "homepage": "https://github.com/cyberquotesg/cordova-plugin-local-notification#readme"
 }
